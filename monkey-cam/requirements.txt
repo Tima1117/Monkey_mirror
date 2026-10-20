@@ -1,0 +1,3 @@
+mediapipe>=0.10.21
+pyvirtualcam>=0.12
+numpy
